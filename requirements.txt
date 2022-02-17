@@ -1,0 +1,4 @@
+matplotlib.pyplot
+matplotlib.animation
+numpy
+math
